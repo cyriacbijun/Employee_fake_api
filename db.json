@@ -1,13 +1,12 @@
-{
-  "posts": [
+{"posts": [
     { "id": 1, "name": "Muhammadali MS","designation":"Product Manager",
-    "teamName":"Surge","backgroundImageUrl":"https://drive.google.com/file/d/1ux-k4jsPvzH9TqEGZ5BA9cXk-XaVvYbz/view?usp=sharing",
+    "teamName":"Surge","backgroundImageUrl":"https://drive.google.com/uc?export=view&id=1ux-k4jsPvzH9TqEGZ5BA9cXk-XaVvYbz",
     "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"},
    { "id": 2, "name":"Joyal Johney","designation":"Software Engineer",
-    "teamName":"Surge","backgroundImageUrl":"https://drive.google.com/file/d/1uckxvciuoJcoGm_b7MdvLm6xYVkhpT82/view?usp=sharing",
+    "teamName":"Surge","backgroundImageUrl":"https://drive.google.com/uc?export=view&id=1uckxvciuoJcoGm_b7MdvLm6xYVkhpT82",
     "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"},
    { "id": 3, "name": "Sreeranjini","designation":"Associate Software Engineer",
-    "teamName":"Tokko","backgroundImageUrl":"https://drive.google.com/file/d/1mtAHiwkFTNu-lmxr3VszEBpXuIrC3Ya9/view?usp=sharing",
-    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"}
-  ]
+    "teamName":"Tokko","backgroundImageUrl":"https://drive.google.com/uc?export=view&id=1mtAHiwkFTNu-lmxr3VszEBpXuIrC3Ya9",
+    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"},
+  ],
 }
