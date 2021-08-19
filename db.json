@@ -8,6 +8,6 @@
     "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"},
    { "id": 3, "name": "Sreeranjini","designation":"Associate Software Engineer",
     "teamName":"Tokko","backgroundImageUrl":"https://drive.google.com/file/d/1mtAHiwkFTNu-lmxr3VszEBpXuIrC3Ya9/view?usp=sharing",
-    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"},
-  ],
+    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"}
+  ]
 }
