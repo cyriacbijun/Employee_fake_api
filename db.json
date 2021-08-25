@@ -1,12 +1,71 @@
 {"posts": [
-    { "id": 1, "name": "Muhammadali MS","designation":"Product Manager",
+   { "id": 1, "name": "Muhammadali MS","designation":"Product Manager",
     "teamName":"Surge","backgroundImageUrl":"https://drive.google.com/uc?export=view&id=1ux-k4jsPvzH9TqEGZ5BA9cXk-XaVvYbz",
-    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"},
+    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something", "phno": "+919598839876", "email": "joyaljohney@keyvalue.systems", 
+     "Projects": ["Training", "Training", "Training"], 
+     "Skills": [
+      "Product management",
+      "UX Design",
+    ],
+    "Previous Companies": ["Oracle", "Cognizant", "IBS"],
+    "Bio":
+        "From solving design challenges in Automotive products to the next-generation financial technology products, I have a plethora of experience in various industries. I have also worked with people from different geographies and cultures and exchanged ideas with them.",
+    "Address": "#15 Aleeta, Olive Kalista \n Kakkanad, Ernakulam - 686523",
+    "DOB": "17 May 1985",
+    "Blood Group": "O+ve",
+    "Emergency Contact": [
+      {"name": "Sample Name", "relation": "father", "phno": "+919999999999"},
+      {"name": "Sample Name", "relation": "mother", "phno": "+919999999999"}
+    ],
+   },
    { "id": 2, "name":"Joyal Johney","designation":"Software Engineer",
     "teamName":"Surge","backgroundImageUrl":"https://drive.google.com/uc?export=view&id=1uckxvciuoJcoGm_b7MdvLm6xYVkhpT82",
-    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"},
+    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something", "phno": "+919598839876", "email": "joyaljohney@keyvalue.systems", 
+    "Projects": ["Training", "Training", "Training"],
+   "Skills": [
+      "Product management",
+      "UX Design",
+      "Community Relations",
+      "Project management"
+    ],
+    "Previous Companies": ["Oracle", "Cognizant", "IBS"],
+    "Bio":
+        "From solving design challenges in Automotive products to the next-generation financial technology products, I have a plethora of experience in various industries. I have also worked with people from different geographies and cultures and exchanged ideas with them.",
+    "Address": "#15 Aleeta, Olive Kalista \n Kakkanad, Ernakulam - 686523",
+    "DOB": "17 May 1985",
+    "Blood Group": "O+ve",
+    "Emergency Contact": [
+      {"name": "Sample Name", "relation": "father", "phno": "+919999999999"},
+      {"name": "Sample Name", "relation": "mother", "phno": "+919999999999"},
+      {"name": "Sample Name", "relation": "father", "phno": "+919999999999"},
+      {"name": "Sample Name", "relation": "mother", "phno": "+919999999999"}
+    ],
+   },
    { "id": 3, "name": "Sreeranjini","designation":"Associate Software Engineer",
     "teamName":"Tokko","backgroundImageUrl":"https://drive.google.com/uc?export=view&id=1mtAHiwkFTNu-lmxr3VszEBpXuIrC3Ya9",
-    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something"}
+    "whatsappContactUrl": "http://somthing","slackContactUrl":"http://something", "phno": "+919598839876", "email": "joyaljohney@keyvalue.systems", 
+    "Projects": ["Training", "Training", "Training"],
+    "Skills": [
+      "Product management",
+      "UX Design",
+      "Community Relations",
+      "Product management",
+      "UX Design",
+      "Community Relations",
+      "Project management"
+    ],
+    "Previous Companies": ["Oracle", "Cognizant", "IBS"],
+    "Bio":
+        "From solving design challenges in Automotive products to the next-generation financial technology products, I have a plethora of experience in various industries. I have also worked with people from different geographies and cultures and exchanged ideas with them.",
+    "Address": "#15 Aleeta, Olive Kalista \n Kakkanad, Ernakulam - 686523",
+    "DOB": "17 May 1985",
+    "Blood Group": "O+ve",
+    "Emergency Contact": [
+      {"name": "Sample Name", "relation": "father", "phno": "+919999999999"},
+      {"name": "Sample Name", "relation": "mother", "phno": "+919999999999"},
+      {"name": "Sample Name", "relation": "father", "phno": "+919999999999"},
+      {"name": "Sample Name", "relation": "mother", "phno": "+919999999999"}
+    ],
+   }
   ]
 }
