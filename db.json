@@ -77,17 +77,15 @@
       "teamName": "Surge",
       "socialMedia": [
         {
-          "slack": {
+          "name": "slack",
           "iconUrl": "https://drive.google.com/uc?export=view&id=1dguvFFwJGAvecFr-yKG0gidbW4FIfOU2",
           "profileUrl": "http://something"
-          }
         },
         {
-          "whatsapp": {
+          "name": "whatsapp",
           "iconUrl": "https://drive.google.com/uc?export=view&id=1mWnY33_92523hYFhp6CSwq0hWEypXBFO",
           "profileUrl": "http://something"
-          }
-        }       
+        }
       ],
       "backgroundImageUrl": "https://drive.google.com/uc?export=view&id=1uckxvciuoJcoGm_b7MdvLm6xYVkhpT82"
     },
@@ -99,17 +97,15 @@
       "backgroundImageUrl": "https://drive.google.com/uc?export=view&id=1ux-k4jsPvzH9TqEGZ5BA9cXk-XaVvYbz",
       "socialMedia": [
         {
-          "slack": {
+          "name": "slack",
           "iconUrl": "https://drive.google.com/uc?export=view&id=1dguvFFwJGAvecFr-yKG0gidbW4FIfOU2",
           "profileUrl": "http://something"
-          }
         },
         {
-          "whatsapp": {
+          "name": "whatsapp",
           "iconUrl": "https://drive.google.com/uc?export=view&id=1mWnY33_92523hYFhp6CSwq0hWEypXBFO",
           "profileUrl": "http://something"
-          }
-        }       
+        }
       ]
     },
     {
@@ -120,17 +116,15 @@
       "backgroundImageUrl": "https://drive.google.com/uc?export=view&id=1mtAHiwkFTNu-lmxr3VszEBpXuIrC3Ya9",
       "socialMedia": [
         {
-          "slack": {
+          "name": "slack",
           "iconUrl": "https://drive.google.com/uc?export=view&id=1dguvFFwJGAvecFr-yKG0gidbW4FIfOU2",
           "profileUrl": "http://something"
-          }
         },
         {
-          "whatsapp": {
+          "name": "whatsapp",
           "iconUrl": "https://drive.google.com/uc?export=view&id=1mWnY33_92523hYFhp6CSwq0hWEypXBFO",
           "profileUrl": "http://something"
-          }
-        }       
+        }
       ]
     }
   ]
